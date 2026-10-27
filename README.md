@@ -1,5 +1,5 @@
 # CSA0223
-Student name : Siva Krishna Charan Register number : 1925260228 Compiler and version (e.g., GCC 13) : GCC and version 14.2.0 Exact GCC command used to compile : - Steps to execute each program :
+Student name : Regeti Naga Sankar Register number : 1912260532 Compiler and version (e.g., GCC 13) : GCC and version 14.2.0 Exact GCC command used to compile : - Steps to execute each program :
 
 Create a main assignment folder named "CSA02-RegisterNumber-Assignment1".
 Create separate folders named "Task01", "Task02", …, "Task12".
